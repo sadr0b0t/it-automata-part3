@@ -12,6 +12,8 @@
 
 ---
 
+pdf: https://github.com/sadr0b0t/it-automata-part3/releases/download/v1.2-dec2025/it-automata-part3-world-eco-v1.2-dec2025.pdf
+
 версии в релизах:
 https://github.com/sadr0b0t/it-automata-part3/releases
 
